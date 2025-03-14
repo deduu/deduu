@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, Dedy here 👋
 
-<!--
-**deduu/deduu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently taking up a CTO role at [Vidavox.ai](https://vidavox.ai). My work focuses on building RAG pipelines and AI Agents using a fully open-source stack.
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- 🏢 **Work:** On-premise Agentic LLM
+- 🚀 **Interests:** GenAI, Machine Learning, Computer vision, Digital Twin, AR/VR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Technologies I Use
+- **Programming:** Python, JavaScript, C#
+- **ML Frameworks:** TensorFlow, PyTorch
+- **Cloud Services:** AWS, GCP, Azure
+
+
+## 📲 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dedy-ariansyah/)
+
